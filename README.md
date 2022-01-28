@@ -2,9 +2,9 @@
 #   CT-2000 AB1.0.a       #
 ###########################
 
-SPECS::
+# SPECS::
 
-:: SHORT ID, LONG ID, TYPE ID, TYPE LONG ID, VERSION, SUBVERSION, PATCH LEVEL
+// SHORT ID, LONG ID, TYPE ID, TYPE LONG ID, VERSION, SUBVERSION, PATCH LEVEL
 SID: CT-2000
 LID: Coffee Twirl 2000
 TID: AB
@@ -13,8 +13,8 @@ VER: 1
 SUB: 0
 PTL: a
 
-DOC :: 
+# DOC 
     Robot that stirs cups filled with fluid (like coffee).
 
-PLATFORM ::
+# PLATFORM
     Arudino 
