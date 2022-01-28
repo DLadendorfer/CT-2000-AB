@@ -2,8 +2,12 @@
 // Copyright (c) Ladendorfer Daniel.
 // All Rights Reserved.  See LICENSE in the project root for license information.
 // -------------------------------------------------------------------------------
+#include "CT2000.h"
 
-#ifndef CT2000_SPEC_H
-#define CT2000_SPEC_H
-#include "CT2000Specs.h"
-#endif
+void setup() {
+  f_ct2000_setup();  
+}
+
+void loop() {
+  f_ct2000_loop();
+}
