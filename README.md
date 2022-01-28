@@ -4,14 +4,16 @@
 
 # SPECS::
 
-// SHORT ID, LONG ID, TYPE ID, TYPE LONG ID, VERSION, SUBVERSION, PATCH LEVEL
-SID: CT-2000
-LID: Coffee Twirl 2000
-TID: AB
-TLD: Arduino Bot
-VER: 1
-SUB: 0
-PTL: a
+
+| ID  |  VAL  | DES |
+|---|---|---|
+| SID | CT-2000 | SHORT ID  |
+| LID | Coffee Twirl 2000 | LONG ID  |
+| TID | AB | TYPE ID |
+| TLD | Arduino Bot | LONG TYPE ID |
+| VER | 1 | VERSION |
+| SUB | 0 | SUBVERSION |
+| PTL | a | PATCH LEVEL |
 
 # DOC 
     Robot that stirs cups filled with fluid (like coffee).
