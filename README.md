@@ -1,8 +1,7 @@
-###########################
-#   CT-2000 AB1.0.a       #
-###########################
 
-# SPECS
+#   CT-2000 AB1.0.a       
+
+## SPECS
 
 
 | ID  |  VAL  | DES |
@@ -15,8 +14,8 @@
 | SUB | 0 | SUBVERSION |
 | PTL | a | PATCH LEVEL |
 
-# DOC 
+## DOCUMENTATION 
     Robot that stirs cups filled with fluid (like coffee).
 
-# PLATFORM
+## PLATFORM
     Arudino 
