@@ -4,3 +4,7 @@
 // -------------------------------------------------------------------------------
 void f_ct2000_setup();
 void f_ct2000_loop();
+void spoon();
+void right_ser();
+void left_ser();
+void rotate();

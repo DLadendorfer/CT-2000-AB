@@ -4,10 +4,12 @@
 // -------------------------------------------------------------------------------
 #include "CT2000.h"
 
-void setup() {
-  f_ct2000_setup();  
+void setup()
+{
+  f_ct2000_setup();
 }
 
-void loop() {
+void loop()
+{
   f_ct2000_loop();
 }
